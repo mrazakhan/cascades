@@ -1,0 +1,1 @@
+python split_joined_business_review_tips.py yelp_academic_dataset_business_filtered.csv yelp_academic_dataset_review.csv yelp_academic_dataset_tip.csv yelp_academic_dataset_user.csv 
